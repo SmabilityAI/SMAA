@@ -102,7 +102,7 @@ char GPSVal[30];
 char GPSlat[15];
 char GPSlong[15];
 
-char Token[33] = "211b4d2dd56a0ba2eb269f2eeb0945ea"; 
+char Token[33] = ""; 
 //char tx_SmabilityServer[500]; //Send buffer
 char rx_SmabilityServer[150]; //Receive buffer
                          
